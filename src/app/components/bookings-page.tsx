@@ -35,7 +35,7 @@ export function BookingsPage() {
                 {/* Calendly Widget Container */}
                 <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-lg border border-gray-100 dark:border-gray-700 overflow-hidden mb-12">
                     <InlineWidget
-                        url="https://calendly.com/ntreasure2015/30min?hide_event_type_details=1&hide_gdpr_banner=1"
+                        url="https://calendly.com/gtreasure41/30min?hide_event_type_details=1&hide_gdpr_banner=1"
                         styles={{
                             height: "700px",
                             minWidth: "320px",
@@ -53,11 +53,11 @@ export function BookingsPage() {
                     </p>
                     <div className="flex items-center justify-center gap-6 flex-wrap mb-6">
                         <a
-                            href="tel:+447438627081"
+                            href="tel:+447438187608"
                             className="inline-flex items-center gap-2 text-emerald-600 hover:text-emerald-700 transition-colors"
                         >
                             <Phone className="w-4 h-4" />
-                            <span>+44 7438627081</span>
+                            <span>+44 7438187608</span>
                         </a>
                         <a
                             href="mailto:ntreasure2015@gmail.com"

@@ -116,10 +116,10 @@ export function InquiryPage() {
                         <div>
                             <p className="text-sm text-gray-600 dark:text-gray-300 mb-1">Phone</p>
                             <a
-                                href="tel:+447438627081"
+                                href="tel:+447438187608"
                                 className="text-emerald-600 hover:text-emerald-700 font-medium"
                             >
-                                +44 7438 627081
+                                +44 7438 187608
                             </a>
                         </div>
                         <div>

@@ -328,11 +328,11 @@ export function PricingPage() {
                     </p>
                     <div className="flex items-center justify-center gap-6 flex-wrap">
                         <a
-                            href="tel:+447438627081"
+                            href="tel:+447438187608"
                             className="inline-flex items-center gap-2 text-emerald-600 hover:text-emerald-700 transition-colors"
                         >
                             <Phone className="w-4 h-4" />
-                            <span>+44 7438 627081</span>
+                            <span>+44 7438 187608</span>
                         </a>
                         <a
                             href="mailto:ntreasure2015@gmail.com"
