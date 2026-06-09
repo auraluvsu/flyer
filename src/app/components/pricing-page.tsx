@@ -335,11 +335,11 @@ export function PricingPage() {
                             <span>+44 7438 187608</span>
                         </a>
                         <a
-                            href="mailto:ntreasure2015@gmail.com"
+                            href="mailto:info.auralu@gmail.com"
                             className="inline-flex items-center gap-2 text-emerald-600 hover:text-emerald-700 transition-colors"
                         >
                             <Mail className="w-4 h-4" />
-                            <span>ntreasure2015@gmail.com</span>
+                            <span>info.auralu@gmail.com</span>
                         </a>
                     </div>
                 </div>

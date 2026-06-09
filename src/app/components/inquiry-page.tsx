@@ -39,7 +39,7 @@ export function InquiryPage() {
                             ? "Both Services"
                             : "Just a Consultation",
                 message: formData.message,
-                to_email: "ntreasure2015@gmail.com",
+                to_email: "info.auralu@gmail.com",
             };
 
             // Send email using EmailJS
@@ -125,10 +125,10 @@ export function InquiryPage() {
                         <div>
                             <p className="text-sm text-gray-600 dark:text-gray-300 mb-1">Email</p>
                             <a
-                                href="mailto:ntreasure2015@gmail.com"
+                                href="mailto:info.auralu@gmail.com"
                                 className="text-emerald-600 hover:text-emerald-700 font-medium"
                             >
-                                ntreasure2015@gmail.com
+                                info.auralu@gmail.com
                             </a>
                         </div>
                     </div>
